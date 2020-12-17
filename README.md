@@ -10,8 +10,6 @@ Script Name  : [BulkSend-O365Invitations.ps1](https://github.com/carygarvin/Bulk
 Script URL   : [https://carygarvin.github.io/BulkSend-O365Invitations.ps1/](https://carygarvin.github.io/BulkSend-O365Invitations.ps1)  
 Version      : 1.0  
 Release date : 14/06/2019 (CET)  
-History      : The present script has been developed to send mass invitations for the Microsoft Teams product b.  
-Purpose      : 
 
 # Script history
 This Script was used to send invitations to a SharePoint Online site with an hypothetical URL to a list of external Guests compiled in an Excel file.  
