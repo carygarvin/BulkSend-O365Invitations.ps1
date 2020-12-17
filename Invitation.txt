@@ -1,0 +1,14 @@
+Dear Guest,
+
+This is an invitation to join Contoso Corp. resources as a guest user.
+Please note that you will need to use your work email to access the Contoso Corp. resources.
+
+You will receive an additional email with the connection link, once the acces to SharePoint is approved.
+
+Should you have any issues, please do not hesitate to contact guest.invitations@contoso.com
+
+Thank you!
+
+Best regards,
+IT Support
+Contoso Corp.
