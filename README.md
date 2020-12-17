@@ -16,7 +16,7 @@ This Script was used to send invitations to a SharePoint Online site with an hyp
 
 # Script usage
 There are 2 user configurable parameters, one with the Admin account under which the script is to be executed and the other one being the actual URL of the SharePoint Online site to attach in the invitation.  
-The present Script relies on 2 input files: an Excel file containing the list of external Guests to invite to Teams and a text file names 'invitation.txt' containing the body of the message to send to these potential Teams guests.  
+The present Script relies on 2 input files: an Excel file containing the list of external Guests to invite to Teams and a text file names '_invitation.txt_' containing the body of the message to send to these potential Teams guests.  
 Both files are to be present in the same directory as the present Script.  
 When executed, the script will update the Excel file with the status on the invitations for each Guest listed, either "Sent" or "Error" in the 8th column (H) titled 'Invitation sent'.  
 Obviously, the script relies on Microsoft Excel to be installed in order to run  using COM Objects as it reads the input Excel file (see sample in repository) containing the names of Guests to which invitations need to be sent.  
