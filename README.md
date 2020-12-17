@@ -12,7 +12,7 @@ Version      : 1.0
 Release date : 14/06/2019 (CET)  
 
 # Script history
-This Script was used to send invitations to a SharePoint Online site with an hypothetical URL to a list of external Guests compiled in an Excel file.  
+This Script was used to send invitations to a SharePoint Online site with an hypothetical URL to a list of potential external Guests compiled in an Excel file.  
 
 # Script usage
 There are 2 user configurable parameters, one with the Admin account under which the script is to be executed and the other one being the actual URL of the SharePoint Online site to attach in the invitation.  
